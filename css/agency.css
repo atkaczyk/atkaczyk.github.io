@@ -110,6 +110,7 @@ fieldset[disabled] .btn-primary.active {
   font-size: 18px;
   padding: 20px 40px;
   opacity:0.7;
+  margin-right:10px;
 }
 .btn-xl:hover,
 .btn-xl:focus,
